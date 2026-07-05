@@ -8,7 +8,7 @@ Language Models: It relies on external language models to achieve high accuracy 
 Customizable: All files are provided as open-source Python scripts, allowing you to modify settings, paths, and configurations to suit your needs.
 
 Prerequisites
-Python 3.8 installed on your PC.
+Python 3.8 (or more) installed on your PC.
 
 Libraries: You will need to install the necessary dependencies via your terminal:
 pip install vosk (or the specific libraries used in your script).
